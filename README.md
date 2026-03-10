@@ -34,7 +34,7 @@ In order to calculate historical Betas for each trading day, I need to use data 
 
 * Plot of Initial Results
 
-!\[](images/ModelPerformance.png)
+![](images/ModelPerformance.png)
 
 * For my exploratory data analysis, I looked only at the XLK/SPY equity pair. My primary finding from this initial analysis is summarized in the plot above, which shows that by using the Betas for the previous 20, 10, or 5 trading days as inputs to a linear regression model, I was able to predict the next day's Beta more accurately than if I just predicted that each day's Beta would be the same as the last day's Beta. The MSE scores for the baseline model and the three regression models were as follows:
 
