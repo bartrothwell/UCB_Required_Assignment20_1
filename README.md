@@ -10,7 +10,7 @@
 
 #### Link to Jupyter Notebook with Exploratory Data Analysis
 
-https://github.com/bartrothwell/UCB\_Required\_Assignment20\_1/blob/main/RequiredAssignment20\_1\_Rothwell.ipynb
+https://github.com/bartrothwell/UCB_Required_Assignment20_1/blob/main/RequiredAssignment20_1_Rothwell.ipynb
 
 #### Introduction and Research Question
 
