@@ -32,7 +32,7 @@ In order to calculate historical Betas for each trading day, I need to use data 
 
 #### Initial Results
 
-* Plot of Initial Results
+* Plot of Initial Results for XLK/SPY
 
 ![](images/ModelPerformance.png)
 
